@@ -1,8 +1,8 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Gilang Ramadhan**.<br>
+Perkenalkan nama saya **Aji Ahmad Baehaki**.<br>
 
-Saya seorang Front End Developer.<br>
+Saya seorang Mobile Developer.<br>
 
 Saya berkuliah di Universitas Perjuagan Tasikmalaya<br>
 
